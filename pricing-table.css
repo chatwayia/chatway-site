@@ -37,9 +37,8 @@ body {
 
 .pricing-table {
   display: grid;
-  /* gap: 24; */
-  padding: 34px;
-  margin-top: 150px;
+  gap: 24;
+  padding: 24px;
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); /* Deixar um ao lado o do outro */
   justify-content: center; /* Centraliza o conteúdo */
 }
