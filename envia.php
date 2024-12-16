@@ -4,7 +4,7 @@
     $email = addslashes($_POST['email']);
     $celular = addslashes($_POST['celular']);
 
-    $para = "intelioteste@gmail.com";
+    $para = "pedro@chatway-ia.com.br";
     $assunto = "Coleta de dados - Chatway";
 
     $corpo = "Nome: ".$nome."\n"."E-mail: ".$email."\n"."Telefone: ".$celular;
